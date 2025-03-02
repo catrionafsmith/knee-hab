@@ -1,6 +1,7 @@
 import { Grid, Card, Text, Title, Center, Box, Stack } from "@mantine/core";
 import { ZoomInIcon, BarChartIcon, CircleIcon, HandIcon, LayersIcon, BellIcon } from "@radix-ui/react-icons";
-import classes from "./feature1.module.css";
+import React from "react";
+import classes from "./feature1.module.css"
 
 const reasons = [
   {

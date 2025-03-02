@@ -1,5 +1,6 @@
 import { AppShell, Burger } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
+import React from 'react';
 import { Feature1 } from './components/feature1';
 
 export default function Layout() {
